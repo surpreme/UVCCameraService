@@ -1,0 +1,5 @@
+rootProject.name='cameratest.service'
+include ':app'
+include ':libuvccamera'
+include ':usbCameraCommon'
+include ':libusbcameramanager'
